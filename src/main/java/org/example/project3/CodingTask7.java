@@ -1,4 +1,4 @@
-package org.example;
+package org.example.project3;
 
 public class CodingTask7 {
     public static void main(String[] args) {
